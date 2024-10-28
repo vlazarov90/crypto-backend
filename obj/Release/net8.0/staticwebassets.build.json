@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+9CWQsUSi2n5xX5lMxxz7EWn3rbhveIGSd5UOqiYtto=",
+  "Source": "CryptoDashboard.Api",
+  "BasePath": "_content/CryptoDashboard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
